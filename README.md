@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jarede-dev
 - 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning C Programming
 - 📫 How to reach me - email: elizanjaredr@gmail.com
 
 <h3 align="left">Connect with me:</h3>
