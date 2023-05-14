@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarede-dev" alt="jarede-dev" /></a> </p>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **elizanjaredr@gmail.com**
 
